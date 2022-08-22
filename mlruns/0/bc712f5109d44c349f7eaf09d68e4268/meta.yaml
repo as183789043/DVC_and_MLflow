@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/123456789/OneDrive/Desktop/dvc%2Bairflow/mlruns/0/bc712f5109d44c349f7eaf09d68e4268/artifacts
+end_time: 1661188575747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: bc712f5109d44c349f7eaf09d68e4268
+run_uuid: bc712f5109d44c349f7eaf09d68e4268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1661188549943
+status: 3
+tags: []
+user_id: '123456789'
